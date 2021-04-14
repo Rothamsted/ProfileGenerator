@@ -2,3 +2,6 @@ __pycache__
 build
 dist
 *.egg-info
+# Eclipse settings	
+.project
+.pydevproject
